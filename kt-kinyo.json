@@ -1,6 +1,7 @@
 {
  "work": "金葉和歌集",
  "work_id": "kt-kinyo",
+ "repo": "kumoi-no-fumigura/kinyo-wakashu",
  "yomi": "きんようわかしゅう",
  "category": "勅撰集",
  "kind": "kashu",
@@ -8613,6 +8614,5 @@
    "text": "芒最攻て戀しき時は播磨なる飾磨に染むるかちよりぞくる",
    "sachu": ""
   }
- ],
- "repo": "kumoi-no-fumigura/kinyo-wakashu"
+ ]
 }
